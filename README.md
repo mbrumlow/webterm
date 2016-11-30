@@ -4,6 +4,6 @@ I was poking around my old computer and found this unfinished project and though
 
 The main motivation for writing this was to give dart and go a shot, go stuck, dart did not :(
 
-Before posting it I upgraded the dart environment to work with WebStorm as when I originally wrote this dart was pre 1.0 and the IDE of choice was eclipse. 
+Before posting it I upgraded the dart project to work with WebStorm as when I originally wrote this dart was pre 1.0 and the IDE of choice was eclipse. 
 
 Its not a very good or fully working terminal implementation. 
