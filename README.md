@@ -1,4 +1,4 @@
-# Simple web terminal in dart backed by a go service. 
+# Simple (unfinished) web terminal in dart backed by a go service. 
 
 I was poking around my old computer and found this unfinished project and thought I would post it to github for safe keeping. 
 
